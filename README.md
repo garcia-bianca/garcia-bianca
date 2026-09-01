@@ -1,6 +1,6 @@
 # Olá, eu sou Bianca Garcia 👋
 
-Sou Desenvolvedora Front-End Júnior em transição de carreira, formada em Análise e Desenvolvimento de Sistemas.  
+Sou Desenvolvedora, formada em Análise e Desenvolvimento de Sistemas.  
 Tenho focado meus estudos e projetos em HTML, CSS, JavaScript, Git e GitHub, com interesse em criar interfaces responsivas, organizadas e funcionais.
 
 ## Sobre mim
